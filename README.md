@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivaavula31
+- 👋 Hi, I’m @shivaavula1214
 - 👀 I’m interested in ...artificial intelligence
 - 🌱 I’m currently learning ...machine learning using python 
 - 💞️ I’m looking to collaborate on ...projects 
